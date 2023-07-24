@@ -1,4 +1,4 @@
-# ML-Identifying-phishing-website
+# ML-phishing-website
 
 **Aim:**
 The aim of this project is to identify whether a website is a phishing website or a legitimate
